@@ -1,2 +1,2 @@
 # hello-world
-Testing and practicing github.
+Testing and practising with github.
