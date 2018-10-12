@@ -32,6 +32,15 @@ Shortcut for completing both git fetch and git merge in one command:
 
 > sudo git pull remotename branchname
 
-or just pull everything with
+or just pull everything with:
 
 > sudo git pull
+
+### Renaming files
+
+### Adding files
+
+### Commit
+
+### Push
+
